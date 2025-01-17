@@ -1,2 +1,4 @@
+python_version<3.12,>=3.10
+pip>=23.0
 streamlit
 os
